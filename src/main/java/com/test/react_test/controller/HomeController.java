@@ -22,6 +22,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @author Greg Turnquist
  */
 // tag::code[]
+// 테스트 깃 주석
 @Controller
 public class HomeController {
 
