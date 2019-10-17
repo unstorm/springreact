@@ -30,3 +30,4 @@ HELP.md
 
 ### project ignore ###
 node_modules/*
+*hot-update.json
