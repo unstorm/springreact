@@ -29,5 +29,5 @@ HELP.md
 .vscode/
 
 ### project ignore ###
-node_modules/*
+node_modules/
 *hot-update.json
