@@ -175,3 +175,6 @@ $RECYCLE.BIN/
 ### project ignore ###
 node_modules/*
 *hot-update.json
+
+src/main/resources/static/built/bundle.js
+package-lock.json
